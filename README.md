@@ -89,7 +89,7 @@ pip install -r requirements.txt
 Создайте файл `.env` в корне проекта:
 
 ```bash
-cp .env.example .env  # если есть
+cp .env.example .env
 ```
 
 Или создайте его вручную и добавьте ваш токен:
