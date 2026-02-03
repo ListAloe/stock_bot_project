@@ -1,0 +1,22 @@
+# Зависимости для Telegram-бота прогнозирования цен акций
+
+# Telegram API
+aiogram>=3.24.0
+
+# Загрузка данных
+yfinance>=0.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Модели машинного обучения
+scikit-learn>=1.4.0
+tensorflow>=2.15.0
+prophet>=1.1.5
+scipy>=1.12.0
+
+# Визуализация
+matplotlib>=3.8.0
+plotly>=5.18.0
+
+# Конфигурация
+python-dotenv>=1.0.0
